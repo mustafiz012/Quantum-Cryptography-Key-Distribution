@@ -1,1 +1,1 @@
-# Qiblah-Detector-Using-Jav
+# Reconciliation Model for Quantum cryptography
